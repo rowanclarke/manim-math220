@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/media/videos/manim/720p30/partial_movie_files/SpectralDecomposition/1342159004_1186765707_47164166.mp4'
+file 'file:/manim/media/videos/manim/720p30/partial_movie_files/SpectralDecomposition/1353618911_1597562159_2121005016.mp4'
+file 'file:/manim/media/videos/manim/720p30/partial_movie_files/SpectralDecomposition/1353618911_2850962534_529447465.mp4'
+file 'file:/manim/media/videos/manim/720p30/partial_movie_files/SpectralDecomposition/1353618911_679279457_2507637283.mp4'
+file 'file:/manim/media/videos/manim/720p30/partial_movie_files/SpectralDecomposition/1353618911_3779976427_1606809520.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/2817580048_1731309929_3080882545.mp4'
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/3686909603_3670095331_2812352881.mp4'
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/130490877_2256215379_2898835386.mp4'
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/6590110_3670095331_121088062.mp4'
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/1337517638_610643094_3524438096.mp4'
+file 'file:/manim/media/videos/manim/480p15/partial_movie_files/SphereSpectralDecomposition/1886959061_1356491031_3064913580.mp4'
